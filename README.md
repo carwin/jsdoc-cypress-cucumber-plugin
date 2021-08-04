@@ -6,11 +6,13 @@ This plugin for JSDoc provides a method for documenting step definitions created
 
 The plugin provides new tags: `@step`, `@stepalias`, `@When`, `@Given`, `@Then`
 
-| `@step`      | Let JSDoc know you're documenting a step definition. The other tags rely on this one. |
-| `@stepalias` | If you provide more than one expression for the same step, document it with this.     |
-| `@When`      | Documents a When expression                                                           |
-| `@Given`     | Documents a Given expression                                                          |
-| `@Then`      | Documents a Then expression                                                           |
+ Tag          | Description
+--------------|---------------------------------------------------------------------------------------
+ `@step`      | Let JSDoc know you're documenting a step definition. The other tags rely on this one.
+ `@stepalias` | If you provide more than one expression for the same step, document it with this.
+ `@When`      | Documents a When expression
+ `@Given`     | Documents a Given expression
+ `@Then`      | Documents a Then expression
 
 ### Example
 
