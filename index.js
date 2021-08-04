@@ -10,6 +10,7 @@ const stepAliasTag = require('./lib/stepalias');
 const whenTag = require('./lib/when');
 const givenTag = require('./lib/given');
 const thenTag = require('./lib/then');
+const needsTag = require('./lib/needs');
 
 exports.defineTags = function(dictionary) {
     dictionary.defineTag(stepTag.name, stepTag.options);
