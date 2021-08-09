@@ -1,5 +1,7 @@
 # jsdoc-cypress-cucumber-plugin
 
+![npm](https://img.shields.io/npm/dm/jsdoc-cypress-cucumber-plugin?style=flat-square)
+
 This plugin for JSDoc provides a method for documenting step definitions created for `cypress-cucumber-preprocessor`.
 
 ## Usage
