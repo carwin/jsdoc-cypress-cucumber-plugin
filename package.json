@@ -1,13 +1,13 @@
 {
   "name": "jsdoc-cypress-cucumber-plugin",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "JSDoc plugin to add custom tags for documenting step definitions with cypress-cucumber-preprocessor",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo 'womp womp'"
+    "test": "No tests exist."
   },
   "repository": {
     "type": "git",
